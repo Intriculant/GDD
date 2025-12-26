@@ -5,7 +5,7 @@
 
 # Walls
 
-Simply work on a grid system.
+Work on a hexagonal grid system.
 Takes builders some time to put up, but are strong and good for blocking
 regions of the map.
 
@@ -18,12 +18,13 @@ help with this.
 - Marines that can wade through water (for some time).
 - A long ranged sniper variant.
 - A sea unit that can produce disruptive waves.
-- Cowboy inspired unit.
+- Western inspired unit.
 - AT-AT inspired.
 - Sarlacc inspired unit.
 - Big-wheeled mobile tank.
 - Building 'liftoff' tag - allows it to toggle flying and landed. Landing enables other effects?
 - Reintroduce the blimp - a mobile barracks?
+- Pop-up turret.
 
 mecha
   - A medium to large sized mechanical humanoid.
