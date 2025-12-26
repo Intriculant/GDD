@@ -1,4 +1,4 @@
-# Day/Night Cycle
+- Day and night cycle.
 - Large building spotlights at night.
 - Moonlight at night.
 - Glowing jellyfish at night.
