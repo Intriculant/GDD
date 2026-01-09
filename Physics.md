@@ -15,3 +15,14 @@
 - Real physics garrison - give units a 'climb' mechanic.
 - Transport planes likely must land to garrison.
 - Transport plane could parachute drop (light) tanks and soldiers, with light tanks taking damage on landing.
+
+# Destruction
+- Building rubble.
+- Fracture physics.
+- Flash fires from explosions.
+- Unit ragdoll and persistence.
+- Helicopter rudder detatchment.
+- Destroyed ships/planes persist at the bottom of the ocean.
+
+# Explosions
+- Knockback.
