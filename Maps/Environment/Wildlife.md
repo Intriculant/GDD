@@ -13,6 +13,9 @@
 - On the sea floor.
 - Eaten by sea creatures.
 
+# Sea Grass
+Vertical planty things sprouting from water beds.
+
 # Birds
 - Land in tree, or floor.
 - Fly away when approached.
@@ -46,9 +49,12 @@
 # Elephant Seal
 
 # Seals
-Will hang around on icebergs.
-Eat fish.
+- Will hang around on icebergs.
+- Eat fish.
 
 # Crabs
-Move from beach to water.
-Dance.
+- Move from beach to water.
+- Dance.
+
+# Flying Dragons
+- In the sky.

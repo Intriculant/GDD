@@ -2,7 +2,7 @@
 - Infantry:
 	Soldier, Marine, Medic, Sniper, Builder
 - Building:
-	Command Center, Port, Barracks, Walls, Plant, Deep Energy
+	Command Center, Port, Barracks, Walls, Plant, Deep Energy, Turret, Mine
 - Navy:
 	Destroyer, Transport Ship
 - Variants:

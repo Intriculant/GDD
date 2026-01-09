@@ -12,3 +12,10 @@ While the countdown happens, a map/mode change would reset the countdown.
 Teleportation sends MapName, PlayerCount, GameMode, PlayerTeams.
 
 Set a player's room by setting a 'room' attribute. Easy.
+
+--
+
+alternative to room countdown:
+insta tp players when player count is reached (or after like 3 secs)
+when tped, you pick variants in the actual game, while the map loads assets
+10 sec timer there, then the match begins
