@@ -1,3 +1,10 @@
+# Humanoid
+- Walk.
+- Swim.
+- Vault.
+- Kick.
+- Punch.
+
 # Sharpshooter - Variant
 - Long ranged, strong, but needs to be still to reload.
 
@@ -11,7 +18,7 @@
 
 # Liftoff Building
 - Building 'liftoff' tag - allows it to toggle flying and landed.
-- Landing enables other effects?
+- Perhaps have different abilities depending on the state it's in.
 
 # Western
 - Inspired.
@@ -19,6 +26,7 @@
 # Walker
 - Physically active legs with their own health pool.
 - Units ride on top.
+- Sound of stomp.
 
 # Sarlacc
 - A pit that units can fall into.
@@ -46,6 +54,9 @@ One infantry can hitch a ride.
 
 # Jetpack Builder - Variant
 - A builder variant that can fly up onto hills to build, but has less build power.
+
+# Long Ranged Builder - Variant
+- A builder that has a larger tool range, and can build through obstacles.
 
 # Mover
 - Make a unit that can pick up and move buildings to reposition them. Could be combined with the lurker.

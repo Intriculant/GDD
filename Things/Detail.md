@@ -6,30 +6,27 @@
 - Soldiers take a drink of water very rarely,
 - Bottle is dropped if they enter combat.
 - Medics pull out and roll up a bandage.
-- Make soldiers at ease while near president.
-- Critical Shot - A sniper shot that kills should release blood and make a sound.
+- Make soldiers at ease while near their president.
+- Critical Shot - A powerful shot that kills should release blood and make a sound.
 - Smoky particles in water if explosions went off.
 
 # Lighting
-- Day and night cycle.
+- Time change.
 - Large building spotlights at night.
 - Moonlight at night.
-- Glowing jellyfish at night.
 - Vehicle spotlights.
-- Plane spotlights, and light bricks.
+- Plane spotlights.
+- Neon indicators on planes.
 - Flashlights on guns.
 
 # Environment Sounds
 - Sound of the ocean.
-- Sound of ocean ships.
 
-# Gun Sounds
+# Unit Sounds
 - Reload sound.
 - Sniper sound.
 - Machine gun sound.
 - Laser sound.
 - Catapult sound.
-
-# Unit Sounds
 - Footsteps.
-- Walker/titan stomp.
+- Sound of moving navy.

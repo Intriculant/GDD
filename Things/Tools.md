@@ -11,7 +11,7 @@
 - Allow semi-complete constructions to move, such as an ac with a builder on top of it.
 - A foundation is dropped when constructing buildings.
 - The range of a constructor is determined by the weapon range.
-- Line of sight is required.
+- Line of sight is required as usual, so building up hills would be blocked.
 - Builds are progressed per-part.
 
 # Production Tool

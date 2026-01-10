@@ -7,9 +7,8 @@
 }
 
 # End of round reward
-- Win: 100
-- Lose: 80
-- Saviour: 20
+- Win/Lose: 50
+- Participation: 80
 - Formula: TotalEarned * math.min(1, MinutesPlayed / 30)
 
 # Prices
