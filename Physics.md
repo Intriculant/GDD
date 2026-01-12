@@ -26,3 +26,7 @@
 
 # Explosions
 - Knockback.
+
+# Building on Units
+- Builders can build directly on moving units that have a big enough flat surface, like aircraft carriers.
+- This allows combining the abilities of units together.
