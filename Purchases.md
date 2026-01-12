@@ -16,5 +16,6 @@
 - Variant (Normal) :: 1,000
 - Variant (Rare) :: 10,000
 - Variant (Legendary) :: 100,000
-- Soldier Recolor :: 1,000,000
-- Consumable :: 1,000
+- Consumable Event :: 1,000
+
+- Meteor shower consumable?

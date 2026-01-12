@@ -1,12 +1,15 @@
 # Humanoid
+- Inherited by humanlike units.
 - Walk.
 - Swim.
 - Vault.
+- Climb.
 - Kick.
 - Punch.
 
 # Sharpshooter - Variant
 - Long ranged, strong, but needs to be still to reload.
+- Moving causes reloading to restart at the beginning.
 
 # Wave Machine - Navy
 
@@ -38,6 +41,7 @@
 - Mobile flying barracks.
 
 # Pop-Up Cannon
+- Is resistant to attacks when it's not firing.
 
 # Scooter
 - A strong naval unit capable of moving (slowly) on land.
@@ -46,8 +50,8 @@
 # Mecha
 - A medium to large sized mechanical humanoid.
 
-# Piggy Backer - Variant
-One infantry can hitch a ride.
+# Piggy Backer - Mecha Variant
+- One infantry can hitch a ride.
 
 # Titan
 - A much MUCH larger mecha that can walk through the sea.

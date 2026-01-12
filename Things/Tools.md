@@ -17,9 +17,8 @@
 # Production Tool
 - A variant of a construction tool.
 - Production buildings have a specific local spot that they construct at, and it can't be changed.
-- They also can't help with other construction projects.
+- Their construction is limited to the units they placed.
 
 # Recovery Tool
-- Can reused rubble.
 
 # Economy Generator
