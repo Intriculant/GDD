@@ -1,6 +1,5 @@
-# Details
-- Waves splash against walls, creating sub waves.
-- Humvee/jeep physics such as suspension.
+# Gameplay Relevant Details
+- Turrets on joints with restricted rotation, thus restricted targetting.
 
 # Inertia
 - Units should constantly try to adjust back to their waypoint.
@@ -20,13 +19,19 @@
 - Building rubble.
 - Fracture physics.
 - Flash fires from explosions.
-- Unit ragdoll and persistence.
 - Helicopter rudder detatchment.
 - Destroyed ships/planes persist at the bottom of the ocean.
-
-# Explosions
+- Unit ragdoll and persistence.
+- Units drown after time.
+- Fall damage.
+> Explosions
 - Knockback.
+- Torque.
 
 # Building on Units
 - Builders can build directly on moving units that have a big enough flat surface, like aircraft carriers.
 - This allows combining the abilities of units together.
+
+# Details
+- Waves splash against walls, creating sub waves.
+- Humvee/jeep physics such as suspension.

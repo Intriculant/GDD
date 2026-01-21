@@ -1,7 +1,7 @@
 # Weapon.AttackPosition(Coordinate, BlueprintName?)
 - This is the method that allows a unit (weapon) to construct at a location, or help construct.
 
-# Standard Weaponry
+# Standard Weapon
 - Advanced targetting ai that constantly adjusts.
 - Arms are angled to fire.
 - Geometry can block shots.
@@ -21,4 +21,12 @@
 
 # Recovery Tool
 
-# Economy Generator
+# Economy Generator Tag
+- Provides a constant flow of cash at a rate of Economy / min.
+
+# Capacity Entity
+- Provides capacity count for a UnitType.
+- Combined with other entities of the same color for a total.
+
+# Bank Entity
+- Stores money.

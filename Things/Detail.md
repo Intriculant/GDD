@@ -1,6 +1,7 @@
 # Common Detail
 - Builders hold a blueprint of what they are constructing.
 - Boosters on some naval ships that create water effects.
+- Start of game should give informational messages based on tags, especially president.
 
 # Rare Detail
 - Soldiers take a drink of water very rarely,
