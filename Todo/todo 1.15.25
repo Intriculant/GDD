@@ -7,30 +7,33 @@
 [:] Add a 'Hotkeys' tab.
 [:] Add a 'Settings' tab.
 [:] Add a 'Catalog' tab.
-[] Show credits earned.
-[] Make building placement require flat ground.
-[] Make unit placement lenient.
-[] Allow deciding between burrowed and rolling mine.
-[] Add building mines into water.
+[:] Make building placement require flat ground.
+[:] Make unit placement lenient.
+[:] Allow deciding between burrowed and rolling mine.
+[x] Add building mines into water.
 [] Add invisibility tag.
-[] Make mines invisible for enemy alliances.
-[] Fix walk straight - stall bug.
+[x] Fix walk straight - stall bug.
 [] Re-add inertia/friction to units.
 [] Add the raycasted weapon targetting system.
-[] Adjust stats.
+[x] Adjust stats.
 [x] Fix ui scaling on clients.
 [] Ensure performance is good (no constantly ticking scripts).
-[] Make builders in tandem work as they should.
+[x] Make builders in tandem work as they should.
 [] Allow building on moving objects.
-[] Add the Assassin gamemode.
-[] Add a description for gamemodes.
-[] Fix waypoint clearing/cleaning.
-[] Ensure that waypoints don't break and stall the game.
-[] Add interact (zone) action.
-[] Add throw action.
-[] Unit sell.
-[] Unit caps and visual dots.
+[x] Add the Assassin gamemode.
+[x] Add a description for gamemodes.
+[x] Fix waypoint clearing/cleaning.
+[x] Ensure that waypoints don't break and stall the game.
+[] Add interact ability.
+[] Interact with mines.
+[x] Unit sell.
+[:] Unit caps and visual dots.
 [] Add turret.
-[] Have waypoint functions flag to repeat themself rather than flag to move on.
-[] Shift click near a waypoint's position to loop into it.
+[x] Have waypoint functions flag to repeat themself rather than flag to move on.
+[x] Shift click near a waypoint's position to loop into it.
 [x] Link module.
+[] Advanced unit tooltip.
+[] Right click leave.
+[] Right click join.
+[] Show credits earned.
+[] 'You have 'x' credit' login.

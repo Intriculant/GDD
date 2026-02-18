@@ -4,6 +4,7 @@
 - A circular map.
 - A forested map with a river in the middle.
 - Savannah map.
+- Middle earth.
 
 # Shapes
 > Sphere
