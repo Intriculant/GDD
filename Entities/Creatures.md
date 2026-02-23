@@ -44,4 +44,6 @@
 # Pirates
 - Attack players.
 
+# Cow
+
 # Glowing Jellyfish (Night)

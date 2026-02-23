@@ -28,7 +28,7 @@
 [] Interact with mines.
 [x] Unit sell.
 [:] Unit caps and visual dots.
-[] Add turret.
+[x] Add turret.
 [x] Have waypoint functions flag to repeat themself rather than flag to move on.
 [x] Shift click near a waypoint's position to loop into it.
 [x] Link module.

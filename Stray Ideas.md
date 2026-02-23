@@ -1,34 +1,47 @@
 # Stray Ideas
 
-# Gravity Altering Unit (Flying Fortress?)
-- Catapult firing from underneath.
+# Small Bugs
 
-Fire particles that split.
+- Money counter can display 5-6 when it should be zero. Clamping?
 
-Lighting on explosions.
+# Later
 
-Evening the Point
+- Command move sound.
+- Sell sound.
+- Jump sound.
+- Make president's hair your hair.
+- Don't fire construction weapon when you don't have the funding/capability.
+- Ghost buildings.
+- Bring back contextual placement.
+- Lerping projectiles.
+- Nicer interface effects.
+- Non-tick brain functions, or another solution needed.
 
-Black Hole
+# Potential
 
-Economy producing attack unit.
+- 'Deconstruct' ability.
+- Weapon spread.
+- Static trigger map boulders, and instancable ones.
+- Pings/waypoints could be manipulated like unit entities.
 
-Nice ui fx.
 
-Railgun light.
 
-Fire debuff.
 
-Poncho, winter cap with sides.
 
-Economic infantry unit variant that provides eco.
 
-Cluster bomb.
 
-Unit that heals in water.
+# Todo
 
-Moveto production.
+- Do sloped buildings because it fixes mines.
+- Parent assets to nil finally, and make a helper that makes the client assets.
+- Click on non allied.
+- Ragdolls.
+- Catapult auto-launch.
+> Placement info.
+- Show time accounting for builders in selection.
 
-Pings = entity.
+# Bugs
 
-Waypoints = entity.
+- Units can arrive late to a build project, and get stuck, since a completed build now is in the way, and they didn't have time to assist.
+
+

@@ -75,3 +75,11 @@
 # R2D2
 
 # Spearman
+
+# Green Man
+
+- Makes you money, but is a weaker soldier.
+
+# Water Healer
+
+- Heals in the water.
